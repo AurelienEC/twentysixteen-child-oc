@@ -3,7 +3,7 @@
  Theme URI:    http://example.com/twenty-sixteen-child/
  Description:  Twenty Sixteen Child Theme
  Author:       Aurélien ANTONIO
- Author URI:   http://example.com
+ Author URI:   http://aurelienantonio.com
  Template:     twentysixteen
  Version:      1.0.0
  License:      GNU General Public License v2 or later
@@ -32,6 +32,7 @@ div#site-header-menu {
 .menu-principal-container {
     display: inline-block;
 }
+/* Modification pour le template fullwidth */
 .fullwidth.content-area{
 	float: none;
 	margin-right: 0px;
